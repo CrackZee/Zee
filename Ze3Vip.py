@@ -687,7 +687,7 @@ def pilih_super():
                        							    print '\x1b[1;97m[\x1b[1;93m\xe2\x9c\x9a\x1b[1;97m] ' + user + ' | ' + pass6
 
         except:
-            pass = ('78611313')
+            pass
 
     p = ThreadPool(30)
     p.map(main, id)
